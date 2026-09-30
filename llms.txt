@@ -1,0 +1,63 @@
+# Taller Benac
+
+> Un taller abierto en Valencia: talleres guiados para aprender con las manos y mesas de trabajo con herramientas que se alquilan por horas. C/ de la Pobla de Farnals, 20, 46021 Valencia · Camins al Grau. Para cualquiera, sin experiencia: gente DIY, profesionales, grupos y empresas. Español e inglés.
+
+Taller Benac (Taller Bénac). Taller Benac es un espacio en Valencia, en Camins al Grau, para hacer cosas con las manos y pasarlo bien mientras tanto. Empezamos con un taller de mecánica de bicis: vienes con tu propia bici y aprendes a arreglarla. Muy pronto abriremos mosaico, pintura, cerámica, carpintería, grabado láser, cuchillería y cuero.
+
+## Actividades
+
+- [Mecánica de bicis](https://manuel3003.github.io/taller-benac-preview/mecanica-de-bicis/): Se puede reservar. Vienes con tu bici y aprendes a arreglarla tú: pinchazos, frenos, cambios, cadena y mantenimiento básico, con herramienta y alguien que sabe al lado. Precio: desde 30 €.
+- [Mosaico](https://manuel3003.github.io/taller-benac-preview/mosaico/): Próximamente: apúntate a Avísame. Trencadís, el mosaico valenciano de azulejo roto. Muy pronto: apúntate y te avisamos cuando haya fechas.
+- [Pintar y vino](https://manuel3003.github.io/taller-benac-preview/pintar-y-vino/): Próximamente: apúntate a Avísame. Pintar tu propio cuadro con una copa de vino, con alguien que guía la sesión paso a paso. Muy pronto: apúntate y te avisamos cuando haya fechas.
+- [Cerámica](https://manuel3003.github.io/taller-benac-preview/ceramica/): Próximamente: apúntate a Avísame. Una iniciación al barro: modelado a mano y torno. Muy pronto: apúntate y te avisamos cuando haya fechas.
+- [Carpintería](https://manuel3003.github.io/taller-benac-preview/carpinteria/): Próximamente: apúntate a Avísame. Hacer tu propia pieza de madera con herramienta de verdad. Muy pronto: apúntate y te avisamos cuando haya fechas.
+- [Grabado láser](https://manuel3003.github.io/taller-benac-preview/grabado-laser/): Próximamente: apúntate a Avísame. Diseñar tu propia pieza y grabarla con láser en madera. Muy pronto: apúntate y te avisamos cuando haya fechas.
+- [Cuchillería](https://manuel3003.github.io/taller-benac-preview/cuchilleria/): Próximamente: apúntate a Avísame. Hacer tu propio cuchillo: dar forma a la hoja, templarla y afilarla. Muy pronto: apúntate y te avisamos cuando haya fechas.
+- [Cuero](https://manuel3003.github.io/taller-benac-preview/cuero/): Próximamente: apúntate a Avísame. Cortar y coser a mano tu propia pieza de piel. Muy pronto: apúntate y te avisamos cuando haya fechas.
+
+## Mesa de trabajo
+
+- [Alquiler de mesa de trabajo en Valencia (makerspace)](https://manuel3003.github.io/taller-benac-preview/mesa-de-trabajo/): Una mesa de trabajo con herramientas que reservas por horas, de día, para tu propio proyecto.
+  - Precio: 10 € / 1 hora (1 persona) - 20 € / 1 hora (6 personas)
+  - Mesas: Tenemos 5 mesas
+  - Horario: Alquiler de día 10:00-17:00
+  - Para quién: Gente DIY y profesionales, de 1 a 6 personas por mesa. No es una clase: trabajas a tu ritmo.
+  - Incluye: Taladro a batería, Taladro de columna, Sierra de calar, Lijadora orbital, Herramienta de mano y Espacio de trabajo
+
+## Trabaja con nosotros
+
+- [Imparte tu taller en Valencia](https://manuel3003.github.io/taller-benac-preview/trabaja-con-nosotros/): Si sabes hacer algo con las manos y te gusta enseñarlo, en Taller Benac tienes el espacio y la herramienta para impartir tu taller.
+
+## Contacto
+
+- Dónde: C/ de la Pobla de Farnals, 20, 46021 Valencia · Camins al Grau
+- Horario: Lunes a viernes 10:00-22:30; Sábado 10:00-23:00; Domingo 10:00-21:00
+- Email: hola@tallerbenac.com
+- Teléfono: +34 600 000 000
+- WhatsApp: https://wa.me/34600000000
+- Google Maps: https://www.google.com/maps/search/?api=1&query=C%2F+de+la+Pobla+de+Farnals%2C+20%2C+46021+Val%C3%A8ncia
+- [Contacto de Taller Benac en Valencia](https://manuel3003.github.io/taller-benac-preview/contacto/)
+
+## English
+
+- [Taller Benac](https://manuel3003.github.io/taller-benac-preview/en/): An open workshop in Valencia: guided workshops to learn with your hands, and workbenches with tools to rent by the hour. C/ de la Pobla de Farnals, 20, 46021 Valencia · Camins al Grau. For anyone, no experience needed: DIY people, pros, groups and companies. Spanish and English.
+- [Bike mechanics](https://manuel3003.github.io/taller-benac-preview/en/mecanica-de-bicis/): Bookable now. Bring your own bike and learn to fix it yourself: punctures, brakes, gears, chain and basic maintenance, with tools and someone who knows by your side. Price: from €30.
+- [Mosaic](https://manuel3003.github.io/taller-benac-preview/en/mosaico/): Coming soon: tap Notify me. Trencadís, the Valencian broken-tile mosaic. Coming soon: sign up and we will let you know when there are dates.
+- [Paint and wine](https://manuel3003.github.io/taller-benac-preview/en/pintar-y-vino/): Coming soon: tap Notify me. Paint your own canvas with a glass of wine, with someone guiding the session step by step. Coming soon: sign up and we will let you know when there are dates.
+- [Ceramics](https://manuel3003.github.io/taller-benac-preview/en/ceramica/): Coming soon: tap Notify me. A clay taster: hand-building and the wheel. Coming soon: sign up and we will let you know when there are dates.
+- [Woodworking](https://manuel3003.github.io/taller-benac-preview/en/carpinteria/): Coming soon: tap Notify me. Make your own wooden piece with real tools. Coming soon: sign up and we will let you know when there are dates.
+- [Laser engraving](https://manuel3003.github.io/taller-benac-preview/en/grabado-laser/): Coming soon: tap Notify me. Design your own piece and laser-engrave it into wood. Coming soon: sign up and we will let you know when there are dates.
+- [Knife making](https://manuel3003.github.io/taller-benac-preview/en/cuchilleria/): Coming soon: tap Notify me. Make your own knife: shape the blade, harden it and sharpen it. Coming soon: sign up and we will let you know when there are dates.
+- [Leather](https://manuel3003.github.io/taller-benac-preview/en/cuero/): Coming soon: tap Notify me. Cut and hand-stitch your own leather piece. Coming soon: sign up and we will let you know when there are dates.
+- [Workbench rental in Valencia (makerspace)](https://manuel3003.github.io/taller-benac-preview/en/mesa-de-trabajo/): A workbench with tools that you book by the hour, in the daytime, for your own project.
+  - Price: €10 / 1 hour (1 person) - €20 / 1 hour (6 people)
+  - Workbenches: We have 5 workbenches
+  - Hours: Daytime hire 10:00-17:00
+  - Who it is for: DIY people and pros, 1 to 6 people per workbench. It is not a class: you work at your own pace.
+  - Included: Cordless drill, Drill press, Jigsaw, Orbital sander, Hand tools and Work space
+- [Teach your workshop in Valencia](https://manuel3003.github.io/taller-benac-preview/en/trabaja-con-nosotros/): If you can make something with your hands and enjoy teaching it, Taller Benac has the space and the tools to run your workshop.
+- [Contact Taller Benac in Valencia](https://manuel3003.github.io/taller-benac-preview/en/contacto/)
+
+## Optional
+
+- [llms-full.txt](https://manuel3003.github.io/taller-benac-preview/llms-full.txt): el texto completo de la web en un solo archivo (español e inglés).
