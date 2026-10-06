@@ -1,0 +1,3 @@
+:HL["/taller-benac-preview/_next/static/chunks/0xvfwb7qj218h.css","style"]
+:HL["/taller-benac-preview/_next/static/chunks/3w5x4z2hgfnx7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"bvcMa-qNc-Dd7mByomOu6"}
