@@ -295,6 +295,17 @@ Siempre hay alguien del equipo en el espacio. No es una clase, pero te echamos u
 **Soy profesional, ¿puedo venir a menudo?**
 Claro. Si necesitas la mesa con frecuencia, escríbenos y hablamos de horas sueltas o bonos.
 
+## Alquiler de bicis en Valencia
+
+URL: https://manuel3003.github.io/taller-benac-preview/nueva-ci/alquiler-de-bicis/
+
+Bicis para salir a recorrer Valencia desde el taller, en Camins al Grau. Estamos preparando el servicio: el tipo de bici, la duración, el precio y las condiciones se publican aquí antes de abrir las reservas.
+
+- Tipo de bici: Bicis urbanas para moverte por la ciudad. Modelos y tallas, por confirmar.
+- Duración y precio: Cuánto tiempo puedes alquilarla y a qué precio, por confirmar.
+- Recogida y devolución: En el taller, C/ de la Pobla de Farnals, 20. Horario, por confirmar.
+- Condiciones: Las condiciones del alquiler, visibles aquí antes de reservar.
+
 ## Imparte tu taller en Valencia
 
 URL: https://manuel3003.github.io/taller-benac-preview/nueva-ci/trabaja-con-nosotros/
@@ -618,6 +629,17 @@ There is always someone from the team around. It is not a class, but we help if 
 
 **I am a pro, can I come often?**
 Of course. If you need the bench regularly, write to us and we will talk about hour packs.
+
+## Bike rental in Valencia
+
+URL: https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/alquiler-de-bicis/
+
+Bikes to get out and explore Valencia from the workshop in Camins al Grau. We are getting the service ready: the type of bike, rental length, price and terms will be published here before bookings open.
+
+- Type of bike: City bikes to get around town. Models and sizes to be confirmed.
+- Length and price: How long you can rent it for and the price, to be confirmed.
+- Pick-up and return: At the workshop, C/ de la Pobla de Farnals, 20. Times to be confirmed.
+- Terms: The rental terms, shown here before you book.
 
 ## Teach your workshop in Valencia
 

@@ -24,6 +24,10 @@ Taller Benac (Taller Bénac). Taller Benac es un espacio en Valencia, en Camins 
   - Para quién: Gente DIY y profesionales, de 1 a 6 personas por mesa. No es una clase: trabajas a tu ritmo.
   - Incluye: Taladro a batería, Taladro de columna, Sierra de calar, Lijadora orbital, Herramienta de mano y Espacio de trabajo
 
+## Alquiler de bicis en Valencia
+
+- [Alquiler de bicis en Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/alquiler-de-bicis/): Bicis para salir a recorrer Valencia desde el taller, en Camins al Grau. Estamos preparando el servicio: el tipo de bici, la duración, el precio y las condiciones se publican aquí antes de abrir las reservas.
+
 ## Trabaja con nosotros
 
 - [Imparte tu taller en Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/trabaja-con-nosotros/): Si sabes hacer algo con las manos y te gusta enseñarlo, en Taller Benac tienes el espacio y la herramienta para impartir tu taller.
@@ -55,6 +59,7 @@ Taller Benac (Taller Bénac). Taller Benac es un espacio en Valencia, en Camins 
   - Hours: Daytime hire 10:00-17:00
   - Who it is for: DIY people and pros, 1 to 6 people per workbench. It is not a class: you work at your own pace.
   - Included: Cordless drill, Drill press, Jigsaw, Orbital sander, Hand tools and Work space
+- [Bike rental in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/alquiler-de-bicis/): Bikes to get out and explore Valencia from the workshop in Camins al Grau. We are getting the service ready: the type of bike, rental length, price and terms will be published here before bookings open.
 - [Teach your workshop in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/trabaja-con-nosotros/): If you can make something with your hands and enjoy teaching it, Taller Benac has the space and the tools to run your workshop.
 - [Contact Taller Benac in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/contacto/)
 

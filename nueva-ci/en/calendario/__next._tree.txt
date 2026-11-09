@@ -1,7 +1,7 @@
-:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/0_n-_g52l_j0x.css","style"]
+:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/41b5xdhyhgivj.css","style"]
 :HL["/taller-benac-preview/nueva-ci/_next/static/chunks/29pski_mxfa8q.css","style"]
 :HL["/taller-benac-preview/nueva-ci/_next/static/media/2fe89d53234c61d4-s.p.1u30mmyq6lnsd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/taller-benac-preview/nueva-ci/_next/static/media/3148927c302f6288-s.p.1n482b8_i3tcd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/taller-benac-preview/nueva-ci/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/taller-benac-preview/nueva-ci/_next/static/media/de268f4aab931443-s.p.0iz2zb08o0wtc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(en)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"en","param":null,"prefetchHints":4160,"slots":{"children":{"name":"calendario","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"rtrHOsm02zsNaLy_NmZp0"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(en)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"en","param":null,"prefetchHints":4160,"slots":{"children":{"name":"calendario","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"pS02x9ZzfKzNKvUgKlLuh"}
