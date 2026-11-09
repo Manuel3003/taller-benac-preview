@@ -1,4 +1,7 @@
-:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/3y_gg_i--c3-3.css","style"]
-:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/2vwrlroesc1n9.css","style"]
-:HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(es)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"2a","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"4NsH4sskPDANuXHMv9SGK"}
+:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/0_n-_g52l_j0x.css","style"]
+:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/29pski_mxfa8q.css","style"]
+:HL["/taller-benac-preview/nueva-ci/_next/static/media/2fe89d53234c61d4-s.p.1u30mmyq6lnsd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/taller-benac-preview/nueva-ci/_next/static/media/3148927c302f6288-s.p.1n482b8_i3tcd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/taller-benac-preview/nueva-ci/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/taller-benac-preview/nueva-ci/_next/static/media/de268f4aab931443-s.p.0iz2zb08o0wtc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(es)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"2a","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"rtrHOsm02zsNaLy_NmZp0"}
