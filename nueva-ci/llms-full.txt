@@ -336,7 +336,7 @@ Una pérgola crea un sitio para estar: sombra para comer fuera, un rincón junto
 
 En las fotos hay pérgolas en terrazas y patios, cenadores de jardín y una pérgola en una plaza. Cuéntanos tu idea y las medidas aproximadas, y te preparamos un presupuesto.
 
-- Pérgolas abiertas, con toldo o con cubierta
+- Pérgolas abiertas, con sombreado o con cubierta
 - Cenadores con tejado de teja o de tégola
 - Para terrazas, patios, jardines y espacios públicos
 
@@ -348,7 +348,7 @@ Vallas y cerramientos de madera a medida para jardines, piscinas y parcelas.
 
 Una valla de madera da intimidad y delimita el jardín sin levantar un muro. Las hacemos a medida, de tablas verticales o de lamas horizontales, a la altura que necesites.
 
-En las fotos puedes ver vallas alrededor de una piscina, en el linde de un jardín y un cerramiento alto en una calle.
+En las fotos puedes ver vallas alrededor de una piscina, en el linde de un jardín, una valla de lamas sobre un murete y un cerramiento alto en una calle.
 
 - Tablas verticales o lamas horizontales
 - A la altura y la longitud de tu parcela
@@ -362,10 +362,10 @@ Tarimas de madera para terrazas, patios y jardines, hechas a medida.
 
 Una tarima de madera cambia una terraza o un patio: un suelo cálido para andar descalzo y poner la mesa fuera. La hacemos a medida del espacio.
 
-En las fotos se ve un patio con tarima y pared revestida de madera, y una terraza con tarima bajo una pérgola.
+En la foto, una terraza con tarima de madera bajo una pérgola.
 
 - A medida de la terraza, el patio o el jardín
-- Se puede combinar con una pérgola o con un revestimiento de pared
+- Se puede combinar con una pérgola
 
 ### Casetas de madera a medida en Valencia
 
@@ -391,11 +391,11 @@ En la foto, un armario trastero de dos puertas en una terraza.
 
 URL: https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/estructuras-de-madera/
 
-Estructuras de madera a medida: vigas, cubiertas y construcciones para casas, jardines y espacios públicos.
+Estructuras de madera a medida: vigas, cubiertas, revestimientos y construcciones para casas, jardines y espacios públicos.
 
-Cuando el proyecto no encaja en una categoría, lo estudiamos contigo: vigas a la vista, cubiertas, pérgolas de gran tamaño u otras construcciones en madera.
+Cuando el proyecto no encaja en una categoría, lo estudiamos contigo: vigas a la vista, cubiertas, revestimientos de pared, pérgolas de gran tamaño u otras construcciones en madera.
 
-En las fotos hay vigas de madera en un dormitorio, una pérgola en una plaza, un patio cubierto y una cama balinesa.
+En las fotos hay vigas de madera en un dormitorio, una pérgola en una plaza, un patio con la pared revestida de madera y una cama balinesa.
 
 ### Mesas de madera a medida en Valencia
 
@@ -415,7 +415,7 @@ Jardineras de madera a medida para terrazas, patios y jardines.
 
 Una jardinera de madera ordena el jardín o da verde a una terraza. La hacemos a medida del sitio y de lo que quieras plantar.
 
-En la foto, la jardinera de madera de un olivo junto a una piscina.
+En la foto, la jardinera de madera de un olivo en un jardín.
 
 ### Altillos de madera a medida en Valencia
 
@@ -816,7 +816,7 @@ A pergola makes a place to be: shade to eat outside, a corner by the pool or som
 
 The photos show pergolas on terraces and patios, garden gazebos and a pergola in a public square. Tell us your idea and the rough measurements, and we will prepare a quote.
 
-- Open pergolas, with shade sails or with a roof
+- Open pergolas, with shading or with a roof
 - Gazebos with a tiled or shingle roof
 - For terraces, patios, gardens and public spaces
 
@@ -828,7 +828,7 @@ Timber fences and enclosures made to measure for gardens, pools and plots.
 
 A timber fence gives privacy and marks out the garden without building a wall. We build them to measure, with vertical boards or horizontal slats, at the height you need.
 
-The photos show fences around a swimming pool, along the edge of a garden and a tall enclosure on a street.
+The photos show fences around a swimming pool, along the edge of a garden, a slat fence on a low wall and a tall enclosure on a street.
 
 - Vertical boards or horizontal slats
 - At the height and length of your plot
@@ -842,10 +842,10 @@ Timber decking for terraces, patios and gardens, made to measure.
 
 Timber decking changes a terrace or a patio: a warm floor to walk on barefoot and set the table outside. We build it to fit the space.
 
-The photos show a patio with decking and a timber-clad wall, and a decked terrace under a pergola.
+The photo shows a terrace with timber decking under a pergola.
 
 - Made to fit the terrace, patio or garden
-- Can be combined with a pergola or timber wall cladding
+- Can be combined with a pergola
 
 ### Custom timber garden sheds in Valencia
 
@@ -871,11 +871,11 @@ The photo shows a two-door storage cupboard on a terrace.
 
 URL: https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/estructuras-de-madera/
 
-Timber structures made to measure: beams, roofs and builds for homes, gardens and public spaces.
+Timber structures made to measure: beams, roofs, cladding and builds for homes, gardens and public spaces.
 
-When a project does not fit a category, we work it out with you: exposed beams, roofs, large pergolas or other builds in wood.
+When a project does not fit a category, we work it out with you: exposed beams, roofs, wall cladding, large pergolas or other builds in wood.
 
-The photos show timber beams in a bedroom, a pergola in a public square, a covered patio and a Bali daybed.
+The photos show timber beams in a bedroom, a pergola in a public square, a patio with a timber-clad wall and a Bali daybed.
 
 ### Custom timber tables in Valencia
 
@@ -895,7 +895,7 @@ Timber planters made to measure for terraces, patios and gardens.
 
 A timber planter tidies up the garden or brings green to a terrace. We build it to fit the place and what you want to plant.
 
-The photo shows the timber planter of an olive tree beside a swimming pool.
+The photo shows the timber planter of an olive tree in a garden.
 
 ### Custom timber mezzanines in Valencia
 
