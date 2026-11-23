@@ -28,6 +28,23 @@ Taller Benac (Taller Bénac). Taller Benac es un espacio en Valencia, en Camins 
 
 - [Alquiler de bicis en Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/alquiler-de-bicis/): Bicis para salir a recorrer Valencia desde el taller, en Camins al Grau. Estamos preparando el servicio: el tipo de bici, la duración, el precio y las condiciones se publican aquí antes de abrir las reservas.
 
+## Carpintería a medida
+
+- [Carpintería a medida en Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/): Pérgolas, porches, vallas, tarimas, casetas y más trabajos en madera, hechos a medida para tu casa, tu terraza o tu jardín. Cuéntanos qué necesitas y te preparamos un presupuesto.
+  - [Porches](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/porches/): Porches de madera a medida para la entrada, la terraza o el jardín, con cubierta de teja o de madera.
+  - [Pérgolas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/pergolas/): Pérgolas y cenadores de madera a medida para terrazas, patios y jardines.
+  - [Vallas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/vallas/): Vallas y cerramientos de madera a medida para jardines, piscinas y parcelas.
+  - [Tarimas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/tarimas/): Tarimas de madera para terrazas, patios y jardines, hechas a medida.
+  - [Casetas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/casetas/): Casetas de madera para el jardín, hechas a medida.
+  - [Trasteros](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/trasteros/): Trasteros y armarios de exterior de madera, a medida para terrazas, patios y jardines.
+  - [Estructuras de madera](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/estructuras-de-madera/): Estructuras de madera a medida: vigas, cubiertas y construcciones para casas, jardines y espacios públicos.
+  - [Mesas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/mesas/): Mesas y bancos de madera maciza, hechos a medida para casas, terrazas y locales.
+  - [Jardineras](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/jardineras/): Jardineras de madera a medida para terrazas, patios y jardines.
+  - [Altillos](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/altillos/): Altillos de madera a medida para ganar espacio en casa, en un local o en un garaje.
+  - [Escaleras](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/escaleras/): Escaleras de madera hechas a medida para tu casa.
+  - [Casas del árbol](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/casas-del-arbol/): Casas del árbol de madera, hechas a medida para tu jardín.
+  - [Estanterías](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/estanterias/): Estanterías de madera a medida para casas y locales.
+
 ## Trabaja con nosotros
 
 - [Imparte tu taller en Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/trabaja-con-nosotros/): Si sabes hacer algo con las manos y te gusta enseñarlo, en Taller Benac tienes el espacio y la herramienta para impartir tu taller.
@@ -60,6 +77,20 @@ Taller Benac (Taller Bénac). Taller Benac es un espacio en Valencia, en Camins 
   - Who it is for: DIY people and pros, 1 to 6 people per workbench. It is not a class: you work at your own pace.
   - Included: Cordless drill, Drill press, Jigsaw, Orbital sander, Hand tools and Work space
 - [Bike rental in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/alquiler-de-bicis/): Bikes to get out and explore Valencia from the workshop in Camins al Grau. We are getting the service ready: the type of bike, rental length, price and terms will be published here before bookings open.
+- [Custom carpentry in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/): Pergolas, porches, fences, decking, garden sheds and more work in wood, made to measure for your home, terrace or garden. Tell us what you need and we will prepare a quote.
+  - [Porches](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/porches/): Timber porches made to measure for your entrance, terrace or garden, with a tiled or timber roof.
+  - [Pergolas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/pergolas/): Timber pergolas and gazebos made to measure for terraces, patios and gardens.
+  - [Fences](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/vallas/): Timber fences and enclosures made to measure for gardens, pools and plots.
+  - [Decking](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/tarimas/): Timber decking for terraces, patios and gardens, made to measure.
+  - [Garden sheds](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/casetas/): Timber sheds for the garden, made to measure.
+  - [Storage](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/trasteros/): Timber storage sheds and outdoor cupboards, made to measure for terraces, patios and gardens.
+  - [Timber structures](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/estructuras-de-madera/): Timber structures made to measure: beams, roofs and builds for homes, gardens and public spaces.
+  - [Tables](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/mesas/): Solid timber tables and benches, made to measure for homes, terraces and venues.
+  - [Planters](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/jardineras/): Timber planters made to measure for terraces, patios and gardens.
+  - [Mezzanines](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/altillos/): Timber mezzanines made to measure to gain space at home, in a venue or in a garage.
+  - [Stairs](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/escaleras/): Timber stairs made to measure for your home.
+  - [Tree houses](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/casas-del-arbol/): Timber tree houses, made to measure for your garden.
+  - [Shelving](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/estanterias/): Timber shelving made to measure for homes and venues.
 - [Teach your workshop in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/trabaja-con-nosotros/): If you can make something with your hands and enjoy teaching it, Taller Benac has the space and the tools to run your workshop.
 - [Contact Taller Benac in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/contacto/)
 
