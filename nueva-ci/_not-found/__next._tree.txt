@@ -1,3 +1,3 @@
-:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/1f0mw8eueb0xc.css","style"]
+:HL["/taller-benac-preview/nueva-ci/_next/static/chunks/38zzng8wt8ckw.css","style"]
 :HL["/taller-benac-preview/nueva-ci/_next/static/chunks/29pski_mxfa8q.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"oi8kRZ3KbFAqKzNcE7Oiw"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"48_ZKQOG3uI6OUkzkM15K"}

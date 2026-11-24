@@ -30,7 +30,7 @@ Taller Benac (Taller Bénac). Taller Benac es un espacio en Valencia, en Camins 
 
 ## Carpintería a medida
 
-- [Carpintería a medida en Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/): Pérgolas, porches, vallas, tarimas, casetas y más trabajos en madera, hechos a medida para tu casa, tu terraza o tu jardín. Cuéntanos qué necesitas y te preparamos un presupuesto.
+- [Carpintería a medida en Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/): Pérgolas, porches, vallas, tarimas, casetas y más trabajos en madera, hechos a medida para tu casa, tu terraza o tu jardín. Cuéntanos qué necesitas y te preparamos un presupuesto. Trabajamos en: Península ibérica y Francia.
   - [Porches](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/porches/): Porches de madera a medida para la entrada, la terraza o el jardín, con cubierta de teja o de madera.
   - [Pérgolas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/pergolas/): Pérgolas y cenadores de madera a medida para terrazas, patios y jardines.
   - [Vallas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/carpinteria-a-medida/vallas/): Vallas y cerramientos de madera a medida para jardines, piscinas y parcelas.
@@ -77,7 +77,7 @@ Taller Benac (Taller Bénac). Taller Benac es un espacio en Valencia, en Camins 
   - Who it is for: DIY people and pros, 1 to 6 people per workbench. It is not a class: you work at your own pace.
   - Included: Cordless drill, Drill press, Jigsaw, Orbital sander, Hand tools and Work space
 - [Bike rental in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/alquiler-de-bicis/): Bikes to get out and explore Valencia from the workshop in Camins al Grau. We are getting the service ready: the type of bike, rental length, price and terms will be published here before bookings open.
-- [Custom carpentry in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/): Pergolas, porches, fences, decking, garden sheds and more work in wood, made to measure for your home, terrace or garden. Tell us what you need and we will prepare a quote.
+- [Custom carpentry in Valencia](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/): Pergolas, porches, fences, decking, garden sheds and more work in wood, made to measure for your home, terrace or garden. Tell us what you need and we will prepare a quote. We work in: Iberian Peninsula and France.
   - [Porches](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/porches/): Timber porches made to measure for your entrance, terrace or garden, with a tiled or timber roof.
   - [Pergolas](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/pergolas/): Timber pergolas and gazebos made to measure for terraces, patios and gardens.
   - [Fences](https://manuel3003.github.io/taller-benac-preview/nueva-ci/en/carpinteria-a-medida/vallas/): Timber fences and enclosures made to measure for gardens, pools and plots.
